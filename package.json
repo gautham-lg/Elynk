@@ -1,0 +1,31 @@
+{
+  "name": "elynk",
+  "version": "1.0.0",
+  "description": "The new Indian revolutionary ecommerce application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gautham L",
+  "license": "ISC",
+  "engines": {
+    "node": "12.18.2"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "connect-mongo": "^3.2.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "helmet": "^4.4.1",
+    "mongodb": "^3.6.3",
+    "mongoose": "^5.10.13",
+    "nodemailer": "^6.4.15",
+    "url": "^0.11.0",
+    "validator": "^13.5.2"
+  }
+}
